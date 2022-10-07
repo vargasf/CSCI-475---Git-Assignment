@@ -1,2 +1,2 @@
 # CSCI 475 - Git Assignment
-Due Sunday 
+Due Sunday October 9
